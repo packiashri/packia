@@ -1,3 +1,4 @@
+emotion detection-using a trained model 
 
 # -*- coding: utf-8 -*-
 """
@@ -5,7 +6,7 @@ Created on Wed May 12 17:09:01 2021
 
 @author: sree
 """
-
+#
 from keras.models import load_model
 from time import sleep
 from keras.preprocessing.image import img_to_array
